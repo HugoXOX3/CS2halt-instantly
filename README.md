@@ -3,6 +3,7 @@ A Halt Instantly Config for CS2
 
 # Language
   [CN](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/CN.md)
+  
   [EN](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/README.md)
 
 # Install & Running
