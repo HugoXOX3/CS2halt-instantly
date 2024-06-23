@@ -1,4 +1,4 @@
-# CS2halt-instantly
+# CS2 Halt Instantly
 A Halt Instantly Config for CS2
 
 # Install & Running
