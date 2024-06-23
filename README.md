@@ -25,8 +25,11 @@ A Halt Instantly Config for CS2
 
 # More about this CFG
 The game uses Valorant release Halt Instantly by default, the tile Halt Instantly includes a two-button Halt Instantly, which is a fully automatic Halt Instantly, if you want to turn off or only use the two-button Halt Instantly, the console can directly enter:
+ 
   ```xinjiting```: Click CAPSLOCK to switch to two-button Halt Instantly, press and hold ALT to switch to two-button Halt Instantly, release ALT to switch back to tile Halt Instantly. Directly release the corresponding arrow key to make an Halt Instantly
+ 
   ```laojiting```: Click CAPSLOCK to switch to tile Halt Instantly, press and hold ALT to switch tile Halt Instantly, release ALT to switch back to dual button Halt Instantly, the original Audition double button Halt Instantly.
+  
   huifu: Turn off the one-key Halt Instantly and restore the key settings to default.
 
 # Want to donate?
