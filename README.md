@@ -14,7 +14,7 @@ A Halt Instantly Config for CS2
 
 6. Restart the Game and Try to use it!!!
 
-# Make Donation
+# Want to donate?
 Bitcoin Address: bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth
 
 # Credits:
