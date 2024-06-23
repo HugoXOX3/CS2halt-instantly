@@ -17,6 +17,8 @@ A Halt Instantly Config for CS2
 
 6. Restart the Game and Try to use it!!!
 
+[![Video]](https://youtu.be/KFDmFXTKc08)
+
 <iframe width="560" height="315" src="https://youtu.be/KFDmFXTKc08" frameborder="0" allowfullscreen></iframe>
 
 # Key Description
