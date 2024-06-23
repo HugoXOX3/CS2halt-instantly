@@ -17,7 +17,7 @@ CS2的即停CFG
 
 6. 重新启动游戏并尝试使用它!!
 
-# 按键说明：
+# 按键说明
 ```CAPSLOCK```（切换大小写）	：切换双键急停
   
 ```ALT```	：按住ALT切换双键急停，松开ALT切换回瓦式急停。
@@ -38,6 +38,6 @@ CS2的即停CFG
 # 想捐款吗？
 比特币地址：bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth
 
-# 致谢：
+# 致谢
 [鸽子梨]（https://space.bilibili.com/168117849?spm_id_from=333.788.0.0）
 
