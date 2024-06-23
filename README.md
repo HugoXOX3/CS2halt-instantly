@@ -2,9 +2,7 @@
 A Halt Instantly Config for CS2
 
 # Language
-  [CN](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/CN.md)
-  
-  [EN](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/README.md)
+  [CN](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/CN.md) , [EN](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/README.md)
 
 # Install & Running
 1. Install the latest CFG from [main](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/Halt_Instantly.cfg) or [release](https://github.com/HugoXOX3/CS2-halt-instantly/releases)
