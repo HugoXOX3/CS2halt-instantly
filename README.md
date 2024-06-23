@@ -6,7 +6,7 @@ A Halt Instantly Config for CS2
 
 2. Open your Steam Library,right click CS2 and click into Properties...
 
-3. Add '+exec Halt_Instantly' in LAUNCH OPTION
+3. Type '+exec Halt_Instantly' in LAUNCH OPTION
 
 4. Click into Installed File and browse... button to browse indtalled files
 
