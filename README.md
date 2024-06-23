@@ -1,5 +1,5 @@
 # CS2halt-instantly
-A halt instantly config for cs2
+A Halt Instantly Config for CS2
 
 
 ---
