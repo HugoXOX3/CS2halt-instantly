@@ -17,7 +17,7 @@ A Halt Instantly Config for CS2
 
 6. Restart the Game and Try to use it!!!
 
-(https://ufile.io/ltimjzkt)
+(https://youtu.be/KFDmFXTKc08)
 
 # Key Description
   CAPSLOCK (toggle case): Toggle two-key Halt Instantly
