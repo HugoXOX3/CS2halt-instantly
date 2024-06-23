@@ -2,9 +2,7 @@
 CS2的即停CFG
 
 # 语言
-  [中文](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/CN.md)
-  
-  [英文](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/README.md)
+  [中文](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/CN.md) , [英文](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/README.md)
 
 # 安装并运行
 1. 从 [main](https://github.com/HugoXOX3/CS2-halt-instantly/blob/main/Halt_Instantly.cfg）)或 [release](https://github.com/HugoXOX3/CS2-halt-instantly/releases)安装最新的 CFG
